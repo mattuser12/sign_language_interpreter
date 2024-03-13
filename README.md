@@ -5,6 +5,7 @@ Requirements:
 * Python
 * Jupyterlab
 * Labelimg
+
 Recommended:
 * Anaconda
 * Docker (either)
